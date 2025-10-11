@@ -32,3 +32,11 @@ Last thing, I made a quick sketch in Fusion to see how the button and crank layo
 
 This is your prequel of the beatblock arcade, I will start pushing out regular updates from there!  
 
+## 10/11/2025 - CAD Designing & Sketch Mockup  
+
+Second update! This time, I have made most of the parts that will fit inside the arcade based on the product images and dimensions, with some of them, I will have to wait for them to arrive since the seller didn't show measurement dimensions. Also, for some of them, I was able to find the exact CAD files online on GrabCAD. Here are some of them:
+![parts.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--0040d7456df19a22a2134697e5252509991d17eb/parts.png)
+After making and downloading most of the parts, I went on to make the rough shape of the actual arcade, it took a while to get the angles of the panels to look right, but I think I'm pretty happy with it.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--48f5f3e506c2380d937c46d69ddd54cc503b9f1e/image.png)
+Here, there are 4 buttons on top, and 2 on the bottom side, and the two 4 inch speakers are on top facing down. I haven't gotten the time to design the sides or the back features yet, and am thinking on how I should make the design of the arcade cabinet. That's all I did for now, time to play some beatblock (you should too)!  
+
