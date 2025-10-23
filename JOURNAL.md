@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **BeatBlock Mini Desktop Arcade**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/372).
-
-
 ## 10/10/2025 - The First Days of Thinking & Shopping  
 
 So, this is meant to be a somewhat simple project, where I design and build my own mini arcade cabinet but specifically for BeatBlock! I got the initial inspiration from [this youtube video](https://youtu.be/IKot38adb68) where they used a crank to control Cranky, and I really wanted to try it too. Since I have had way too much fun with beatblock, why not share this game with other people and build something cool?
@@ -39,4 +35,12 @@ Second update! This time, I have made most of the parts that will fit inside the
 After making and downloading most of the parts, I went on to make the rough shape of the actual arcade, it took a while to get the angles of the panels to look right, but I think I'm pretty happy with it.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--48f5f3e506c2380d937c46d69ddd54cc503b9f1e/image.png)
 Here, there are 4 buttons on top, and 2 on the bottom side, and the two 4 inch speakers are on top facing down. I haven't gotten the time to design the sides or the back features yet, and am thinking on how I should make the design of the arcade cabinet. That's all I did for now, time to play some beatblock (you should too)!  
+
+## 10/22/2025 - First Solid Models!  
+
+Have been making some slow progress lately, but I have made the first bits of the solid model! I still need to come up with a solution to how the panels will be connected, and I am out of ideas right now. I might just keep trying different solutions until I get one that is good.
+
+But anyway, here is what I got right now, just the basic sketches and the first bit of the shell of the arcade.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b9d1bb575307dcfa4521a65d2b8a66c4975a833d/image.png)
+  
 
